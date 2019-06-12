@@ -16,3 +16,6 @@ const imageEl = document.getElementById('image');
 
 imageEl.src = urlCreator.createObjectURL(blob);
 ```
+
+## resources
+- https://www.cnblogs.com/fj99/p/5502130.html
