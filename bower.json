@@ -1,0 +1,28 @@
+{
+  "name": "next-base64-to-blob",
+  "version": "0.0.1",
+  "description": "Base64 to blob",
+  "main": "dist/next-base64-to-blob.js",
+  "authors": [
+    "afei"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "next"
+  ],
+  "homepage": "https://github.com/afeiship/next-base64-to-blob",
+  "moduleType": [
+    "amd"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "build",
+    "src",
+    "gulp",
+    "gulpfile.js"
+  ]
+}
