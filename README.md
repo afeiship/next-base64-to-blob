@@ -8,5 +8,8 @@ npm install -S afeiship/next-base64-to-blob --registry=https://registry.npm.taob
 
 ## usage
 ```js
-//DOCS here!
+var blob = nx.base64ToBlob(b64);
+var urlCreator = window.URL || window.webkitURL;
+
+document.getElementById('image').src = urlCreator.createObjectURL(blob);
 ```
