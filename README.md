@@ -19,3 +19,4 @@ imageEl.src = urlCreator.createObjectURL(blob);
 
 ## resources
 - https://www.cnblogs.com/fj99/p/5502130.html
+- https://ourcodeworld.com/articles/read/322/how-to-convert-a-base64-image-into-a-image-file-and-upload-it-with-an-asynchronous-form-using-jquery
